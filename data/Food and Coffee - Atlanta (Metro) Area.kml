@@ -1,0 +1,2184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Food and Coffee - Atlanta (Metro) Area</name>
+    <description><![CDATA[Designed by Michelle Schmitz<br>100% User Visited-and-Approved.<br><br>Remember: https://www.gislounge.com/dos-and-donts-of-web-map-design/]]></description>
+    <Style id="icon-1023-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1023-biz-food.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1023-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1023-biz-food.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1023-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1023-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1023-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1081-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1081-biz-restaurant-fastfood.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1081-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1081-biz-restaurant-fastfood.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1081-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1081-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1081-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1085-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1085-biz-restaurant-generic.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1085-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1085-biz-restaurant-generic.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1085">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1085-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1085-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1085-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1085-biz-restaurant-generic.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1085-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1085-biz-restaurant-generic.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1085-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1085-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1085-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1087-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1087-biz-restaurant-icecream.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1087-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1087-biz-restaurant-icecream.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1087-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1087-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1087-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1089-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1089-biz-restaurant-pizza.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1089-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1089-biz-restaurant-pizza.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1089">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1089-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1089-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1089-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1089-biz-restaurant-pizza.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1089-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1089-biz-restaurant-pizza.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1089-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1089-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1089-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1101-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1101-biz-supermarket.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1101-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1101-biz-supermarket.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1101-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1101-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1101-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-979-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/979-biz-bar.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-979-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/979-biz-bar.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-979-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-979-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-979-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-985-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/985-biz-book.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-985-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/985-biz-book.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-985-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-985-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-985-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-991-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/991-biz-cafe.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-991-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/991-biz-cafe.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-991">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-991-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-991-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-991-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/991-biz-cafe.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-991-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/991-biz-cafe.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-991-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-991-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-991-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>North American / European</name>
+      <Placemark>
+        <name>The General Muir (Jewish-Ish Deli)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3274838,33.8010371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Vortex Bar & Grill (Pub Food)]]></name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3492347,33.7662469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Porter Beer Bar</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.349675,33.7652221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ammazza (Pizza)</name>
+        <styleUrl>#icon-1089-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3680912,33.75416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Westin Peachtree Plaza, Atlanta (Revolving Fancy Bar Food!)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.387917,33.7594111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mason Tavern (American Bar Food)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3048845,33.7928339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Flying Biscuit Cafe (American, Breakfast)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.380259,33.781923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no. 246 (Italian)</name>
+        <styleUrl>#icon-1089-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2953129,33.7754509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>gusto! (American)</name>
+        <description>http://www.yelp.com/biz/gusto-wood-fire-grill-atlanta</description>
+        <styleUrl>#icon-1085</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3934225,33.8075854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gus’s World Famous Fried Chicken</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3862762,33.7603682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Julianna's Coffee and Crepes (Hungarian)]]></name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3621844,33.7580243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Twain's Brewpub and Billiards]]></name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.294525,33.7723161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Colonnade Restaurant (Southern)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3609894,33.8092592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thinking Man Tavern (American/Brewery)</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3045773,33.7678713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Radial Cafe (Farm-to-Table American)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3374499,33.7626199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Publik Draft House</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3850469,33.7723774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atwoods Pizza Cafe</name>
+        <styleUrl>#icon-1089-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3870049,33.7773802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joystick Gamebar</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3736627,33.7541508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[MOTHER | Restaurant & Bar]]></name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3729186,33.7542333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sister Louisa's Church of the Living Room & Ping Pong Emporium]]></name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3723734,33.754477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O4W Pizza</name>
+        <styleUrl>#icon-1089-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.1451419,34.0027651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Q BBQ</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3051006,33.7925454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Athens Pizza (Greek)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3054294,33.7919559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Falafel King (Israeli/Korean)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3263604,33.7884455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pita Palace (Israeli - Orthodox)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.334041,33.8162605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Romeo's Pizza]]></name>
+        <description><![CDATA[TRUE Location<br>http://romeosnypizza.com/]]></description>
+        <styleUrl>#icon-1089</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3265633,33.7886124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Farm Burger Decatur</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3029066,33.7754378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iberian Pig (Spanish tapas)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.296003,33.774389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Grant Central Pizza & Pasta]]></name>
+        <styleUrl>#icon-1089-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.373565,33.742206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Smoke & Duck Sauce]]></name>
+        <styleUrl>#icon-1081-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2866356,33.7919184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Comet Pub & Lanes]]></name>
+        <styleUrl>#icon-1081-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2876039,33.7904458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ria's Bluebird]]></name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3736481,33.7465435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alma Cocina</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3874555,33.7591669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Paschal's Restaurant]]></name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4038307,33.7493579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hattie B's Hot Chicken - Atlanta, GA]]></name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.348824,33.7625081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ammazza Decatur</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2921245,33.7719468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>gusto! Decatur</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2849961,33.792638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southbound (Southern Food)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.301018,33.8922898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zunzi’s (South African/Boers)</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4125265,33.8084811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MidiCi The Neapolitan Pizza Company</name>
+        <styleUrl>#icon-1089-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3838074,33.781343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Takorea</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.383159,33.776895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jack's Pizza & Wings]]></name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3651588,33.7614739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Highland Bakery</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3658345,33.7612315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hampton + Hudson</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3589215,33.7621357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gus's World Famous Fried Chicken (CHAM)]]></name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2982233,33.8945086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bluetop</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3017126,33.8913977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Fellini's Pizza]]></name>
+        <styleUrl>#icon-1089-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.379973,33.876062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Greater Good BBQ</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3799249,33.8763478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ration and Dram</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3315536,33.7585963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Greater Good BBQ</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3099819,33.7513126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Flying Biscuit Cafe</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.333199,33.764726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Fellini's Pizza]]></name>
+        <styleUrl>#icon-1089-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.333956,33.765002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Dr. Bombay's Underwater Tea Party]]></name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3335964,33.764724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Corner Pub</name>
+        <styleUrl>#icon-1081-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2858498,33.7731792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mary Mac's Tea Room]]></name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3800002,33.7728318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>gusto! Ponce</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3617783,33.7741158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Antico</name>
+        <styleUrl>#icon-1089-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4055889,33.7846513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sublime Doughnuts</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4049196,33.7818784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Cooks & Soldiers]]></name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4114717,33.7859733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barcelona Wine Bar</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4113861,33.7845148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Supermercado Chicago</name>
+        <description>Has groceries, but more importantly, cheap and good tacos.</description>
+        <styleUrl>#icon-1085</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2815482,33.8953841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Canteen</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3892555,33.7770098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City Winery</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3673368,33.7715897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pancake Social</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3652525,33.7716397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Five Daughters Bakery (Westside Provisions)</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.41216,33.785834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Five Daughters Bakery (Ponce City Market)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3656676,33.7716615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Carribbean/Central/South American</name>
+      <Placemark>
+        <name>La Pastorcita (Tacos)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.329254,33.843002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nuevo Laredo Cantina (Chicken Mole Tacos)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4367464,33.8094748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rreal Tacos (Mexican)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3832099,33.7774916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Caribbean Chicken & Fish (Jamaican)]]></name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2645827,33.7925868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Brasas (Peruvian)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2952052,33.7782864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Latina (Venezuelan)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2951428,33.7749186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Drops Café (Brazilian/Coffee)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3107416,33.8062054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Papi's Cuban & Caribbean Grill]]></name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3803803,33.7727465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Papi's Cuban & Caribbean Grill]]></name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3268383,33.8010112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kemper's Cafe (Jamaican)]]></name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4084691,33.7015766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Havana Sandwich Shop</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.340623,33.832856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bartaco</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3585815,33.7624992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>East Asian/SE Asian</name>
+      <Placemark>
+        <name>Mamak (Malaysian)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2849292,33.8935336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jang Su Jang (Korean)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.138878,33.95717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chef Liu (Dumplings)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2811521,33.8963216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Makan Restaurant & Bar (Malaysian)]]></name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.296824,33.7766527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Mei Zi (Taiwanese) 辣妹子</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2861663,33.8927541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hajime (Ramen)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3497225,33.8191602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quoc Huong Banh Mi Fast Food</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2853036,33.892682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Bangkok (Thai)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.352299,33.815868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pho Dai Loi 2 (Vietnamese)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3050483,33.8652022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siamese Basil Thai Restaurant</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2067162,33.8990491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Food Terminal (Malaysian/Cantonese)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2877092,33.8874393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yen Jing Chinese Restaurant</name>
+        <description>Recommended: orange chicken.</description>
+        <styleUrl>#icon-1085</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2819146,33.8975792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bonchon Chicken - Fayetteville, GA</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4395607,33.4798238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iron Age (Korean All-You-Can-Eat)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.1340289,33.9540495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sokongdong Tofu House (Tofu Soups)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2825003,33.8969148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>pho 24 (24-Hour Vietnamese)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2934256,33.8773762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ming's BBQ (Cantonese BBQ)]]></name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2859334,33.8927669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saigon Cafe (Vietnamese)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.305748,33.7913333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mint 2 Thai-Sushi</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3049631,33.7925418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LanZhou Ramen 兰州拉面</name>
+        <styleUrl>#icon-1081-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2820866,33.8948204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tuk Tuk Thai Food Loft</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3922896,33.8016144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dish Korean Cuisine</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2881119,33.8874582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atlanta Chinatown</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2999855,33.8902752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>K BBQ Taco</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2963692,33.7759211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lee's Bakery (Vietnamese)]]></name>
+        <description><![CDATA[Others' people's favs, not my own though. :(]]></description>
+        <styleUrl>#icon-1085</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3089137,33.8600364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gaja Korean Bar</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3463225,33.7405527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>We Suki Suki A Global Grub Collective</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3465662,33.740882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nam Phuong Restaurant (Vietnamese)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3079247,33.8612186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Han Il Kwan (Korean)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2768163,33.9013686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snackboxe Bistro (Lao Street Food)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2881067,33.9089911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gu’s Kitchen (Sichuan)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2880998,33.884676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D92 Korean BBQ</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.293782,33.7719658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Penang (SE Asian Food)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2875607,33.8846739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vietvana Pho Noodle House (Vietnamese)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2740865,33.7746524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tasty China</name>
+        <description>Authentic Sichuan (Szechwan) food. Family style, recommend going with parties of six or more.</description>
+        <styleUrl>#icon-1085</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3833273,33.888938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beijing Kabobs</name>
+        <description>Dingy, Beijing-style hole in the wall, complete with gruff Beijing proprietor. Lamb kabobs are the standard, should be paired with light lager (e.g., Tsingtao). </description>
+        <styleUrl>#icon-1085</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2857341,33.8913647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joy Pizza N Joy Chicken (Korean)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.178718,34.0451711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yifan Catering and Cooking School (Chinese)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.1788853,34.0452659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Mekong Vietnamese Cuisine</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.1790712,34.047257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Ethiopian/Indian/Middle Eastern</name>
+      <Placemark>
+        <name>Chai Pani Decatur</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.302717,33.775363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Desta Ethiopian Kitchen</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3103454,33.8378768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bahel Ethiopian</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3099271,33.8371674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sufi's Kitchen (Persian)]]></name>
+        <description>http://www.yelp.com/biz/sufis-atlanta</description>
+        <styleUrl>#icon-1085</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3938208,33.8044316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madras Mantra (South Indian)</name>
+        <description>http://www.yelp.com/biz/madras-mantra-decatur</description>
+        <styleUrl>#icon-1085</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2713909,33.8103699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Panahar (Bangladeshi)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.327237,33.842597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yalla (Middle Eastern)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3639453,33.7568961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spice To Table (Indian)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3659762,33.7568281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Purnima Bangladeshi Cuisine</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2935922,33.8771049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Halal Guys (Fast-Casual Middle-Eastern)</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.287773,33.885867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Desta Ethiopian Kitchen Emory Point</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3283693,33.8009517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madras Chettinaad (Indian Buffet)</name>
+        <description>https://www.yelp.com/biz/madras-chettinaad-alpharetta?osq=madras+chettinad</description>
+        <styleUrl>#icon-1085</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2352989,34.0574031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Coffee/Tea</name>
+      <Placemark>
+        <name>Octane Coffee Company</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4103241,33.7794286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Proof Bakeshop</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3539205,33.756964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ebrik Coffee Room (Downtown ATL)</name>
+        <description><![CDATA[https://www.google.com/search?client=safari&rls=en&q=ebrik+coffee+room+atlanta+ga&ie=UTF-8&oe=UTF-8]]></description>
+        <styleUrl>#icon-991</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3886769,33.7540152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chattahoochee Coffee Company</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4450176,33.896655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Octane Coffee Bar - Grant Park</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.37283,33.7460934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dancing Goats (Decatur)</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3032641,33.7758813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Java Monkey</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2946708,33.775182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Amélie's French Bakery]]></name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4069315,33.7752412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafe Jonah</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3822217,33.8413555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Condesa Coffee</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.371945,33.759773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quickly Bubble Tea 快乐珍珠茶</name>
+        <styleUrl>#icon-1081-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2858003,33.8914414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sweet Hut Bakery Cafe</name>
+        <styleUrl>#icon-1081-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2843624,33.8934407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ebrik Coffee Room</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2921513,33.7711141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moonbird Coffee</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3010773,33.8923304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inman Perk Coffee</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.359158,33.762543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Matcha Cafe Maiko</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2813498,33.8973773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dancing Goats Coffee Bar</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3867958,33.7803478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Breweries/Pubs</name>
+      <Placemark>
+        <name>BlueTarp Brewing Co.</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.283598,33.773999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Three Taverns Craft Brewery</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2851835,33.7725882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wild Heaven Beer</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2757169,33.7764709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SweetWater Brewing Company</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3807352,33.8083449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monday Night Brewing</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.40989,33.794919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Brick Brewing Company</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4346066,33.8184522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hopstix</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.303167,33.890621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Urban Tree Cidery</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4147967,33.7949046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ormsby’s</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4120078,33.7858069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Lost Druid Brewery</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2725887,33.7773476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poor Hendrix</name>
+        <styleUrl>#icon-979-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.309358,33.7509049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[My Parents' Basement]]></name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2723603,33.7756673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diesel Filling Station</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.353082,33.7782746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orpheus Brewing</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3686023,33.7936008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Grocery Stores</name>
+      <Placemark>
+        <name>Buford Highway Farmers Market</name>
+        <styleUrl>#icon-1101-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2742416,33.9057576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Your DeKalb Farmers Market</name>
+        <styleUrl>#icon-1101-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.270025,33.7874167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Super H Mart</name>
+        <styleUrl>#icon-1101-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2881654,33.9077452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patel Brothers</name>
+        <styleUrl>#icon-1101-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2806729,33.7975517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Trader Joe's]]></name>
+        <styleUrl>#icon-1101-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3675836,33.7794269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whole Foods Market</name>
+        <styleUrl>#icon-1101-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3813921,33.8408965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Trader Joe's]]></name>
+        <styleUrl>#icon-1101-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3749866,33.8409526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whole Foods Market</name>
+        <styleUrl>#icon-1101-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3880695,33.7863239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Publix Super Market at The Plaza Midtown</name>
+        <styleUrl>#icon-1101-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3887918,33.7804553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>H Mart Johns Creek</name>
+        <styleUrl>#icon-1101-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.178218,34.044917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Desserts</name>
+      <Placemark>
+        <name>Roll It Up Ice Cream Atlanta</name>
+        <styleUrl>#icon-1087-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2847346,33.8929088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Butter & Cream]]></name>
+        <styleUrl>#icon-1087-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2950474,33.7750999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jeni's Splendid Ice Creams]]></name>
+        <styleUrl>#icon-1087-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2962752,33.7744732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Café Intermezzo - Midtown</name>
+        <styleUrl>#icon-1087-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3836401,33.7832396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Alon's Bakery & Market]]></name>
+        <styleUrl>#icon-1087-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.352866,33.7925868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8 Fahrenheit Ice Cream</name>
+        <styleUrl>#icon-1087-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2858305,33.8914986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICENY Ice Cream</name>
+        <styleUrl>#icon-1087-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.283386,33.893614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mozart Bakery</name>
+        <styleUrl>#icon-1087-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2809261,33.8967883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paris Baguette</name>
+        <styleUrl>#icon-1087-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.282829,33.896213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frosty Caboose</name>
+        <styleUrl>#icon-1087-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2997851,33.8932154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morelli’s Gourmet Ice Cream</name>
+        <styleUrl>#icon-1087-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3496246,33.7339513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>King of Pops Worldwide HQ</name>
+        <styleUrl>#icon-1087-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3693772,33.7522866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chapman Drug Company-Pharmacy</name>
+        <styleUrl>#icon-1023-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4091208,33.6592003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ali's Cookies - Emory]]></name>
+        <styleUrl>#icon-1087-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3266024,33.7878583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Trivia Nights ONLY</name>
+      <Placemark>
+        <name>The Imperial</name>
+        <styleUrl>#icon-985-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3063928,33.7660904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Joe's On Juniper]]></name>
+        <styleUrl>#icon-985-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.382084,33.7832317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Cypress Street Pint & Plate]]></name>
+        <styleUrl>#icon-985-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3861202,33.7773102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rí Rá Irish Pub</name>
+        <styleUrl>#icon-985-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.384209,33.784193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Albert</name>
+        <styleUrl>#icon-985-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3575206,33.761941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

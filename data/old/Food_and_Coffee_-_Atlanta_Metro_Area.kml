@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>North_American___European</name>
+  <Placemark>
+	<name>The General Muir (Jewish-Ish Deli)</name>
+      <Point><coordinates>-84.3274838,33.8010371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vortex Bar &amp; Grill (Pub Food)</name>
+      <Point><coordinates>-84.3492347,33.7662469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Porter Beer Bar</name>
+      <Point><coordinates>-84.349675,33.7652221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ammazza (Pizza)</name>
+      <Point><coordinates>-84.3680912,33.75416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Westin Peachtree Plaza, Atlanta (Revolving Fancy Bar Food!)</name>
+      <Point><coordinates>-84.387917,33.7594111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mason Tavern (American Bar Food)</name>
+      <Point><coordinates>-84.3048845,33.7928339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Flying Biscuit Cafe (American, Breakfast)</name>
+      <Point><coordinates>-84.380259,33.781923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>no. 246 (Italian)</name>
+      <Point><coordinates>-84.2953129,33.7754509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>gusto! (American)</name>
+	<description>http://www.yelp.com/biz/gusto-wood-fire-grill-atlanta</description>
+      <Point><coordinates>-84.3934225,33.8075854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gus’s World Famous Fried Chicken</name>
+      <Point><coordinates>-84.3862762,33.7603682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Julianna's Coffee and Crepes (Hungarian)</name>
+      <Point><coordinates>-84.3621844,33.7580243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Twain's Brewpub and Billiards</name>
+      <Point><coordinates>-84.294525,33.7723161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Colonnade Restaurant (Southern)</name>
+      <Point><coordinates>-84.3609894,33.8092592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thinking Man Tavern (American/Brewery)</name>
+      <Point><coordinates>-84.3045773,33.7678713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Radial Cafe (Farm-to-Table American)</name>
+      <Point><coordinates>-84.3374499,33.7626199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Publik Draft House</name>
+      <Point><coordinates>-84.3850469,33.7723774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atwoods Pizza Cafe</name>
+      <Point><coordinates>-84.3870049,33.7773802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joystick Gamebar</name>
+      <Point><coordinates>-84.3736627,33.7541508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MOTHER | Restaurant &amp; Bar</name>
+      <Point><coordinates>-84.3729186,33.7542333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sister Louisa's Church of the Living Room &amp; Ping Pong Emporium</name>
+      <Point><coordinates>-84.3723734,33.754477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>O4W Pizza</name>
+      <Point><coordinates>-84.1451419,34.0027651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Community Q BBQ</name>
+      <Point><coordinates>-84.3051006,33.7925454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Athens Pizza (Greek)</name>
+      <Point><coordinates>-84.3054294,33.7919559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Falafel King (Israeli/Korean)</name>
+      <Point><coordinates>-84.3263604,33.7884455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pita Palace (Israeli - Orthodox)</name>
+      <Point><coordinates>-84.334041,33.8162605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Romeo's Pizza</name>
+	<description>TRUE Location&lt;br&gt;http://romeosnypizza.com/</description>
+      <Point><coordinates>-84.3265633,33.7886124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Farm Burger Decatur</name>
+      <Point><coordinates>-84.3029066,33.7754378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iberian Pig (Spanish tapas)</name>
+      <Point><coordinates>-84.296003,33.774389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grant Central Pizza &amp; Pasta</name>
+      <Point><coordinates>-84.373565,33.742206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Smoke &amp; Duck Sauce</name>
+      <Point><coordinates>-84.2866356,33.7919184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Comet Pub &amp; Lanes</name>
+      <Point><coordinates>-84.2876039,33.7904458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ria's Bluebird</name>
+      <Point><coordinates>-84.3736481,33.7465435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alma Cocina</name>
+      <Point><coordinates>-84.3874555,33.7591669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paschal's Restaurant</name>
+      <Point><coordinates>-84.4038307,33.7493579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hattie B's Hot Chicken - Atlanta, GA</name>
+      <Point><coordinates>-84.348824,33.7625081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ammazza Decatur</name>
+      <Point><coordinates>-84.2921245,33.7719468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>gusto! Decatur</name>
+      <Point><coordinates>-84.2849961,33.792638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Southbound (Southern Food)</name>
+      <Point><coordinates>-84.301018,33.8922898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zunzi’s (South African/Boers)</name>
+      <Point><coordinates>-84.4125265,33.8084811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MidiCi The Neapolitan Pizza Company</name>
+      <Point><coordinates>-84.3838074,33.781343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Takorea</name>
+      <Point><coordinates>-84.383159,33.776895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jack's Pizza &amp; Wings</name>
+      <Point><coordinates>-84.3651588,33.7614739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Highland Bakery</name>
+      <Point><coordinates>-84.3658345,33.7612315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hampton + Hudson</name>
+      <Point><coordinates>-84.3589215,33.7621357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gus's World Famous Fried Chicken (CHAM)</name>
+      <Point><coordinates>-84.2982233,33.8945086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bluetop</name>
+      <Point><coordinates>-84.3017126,33.8913977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fellini's Pizza</name>
+      <Point><coordinates>-84.379973,33.876062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Greater Good BBQ</name>
+      <Point><coordinates>-84.3799249,33.8763478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ration and Dram</name>
+      <Point><coordinates>-84.3315536,33.7585963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Greater Good BBQ</name>
+      <Point><coordinates>-84.3099819,33.7513126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Flying Biscuit Cafe</name>
+      <Point><coordinates>-84.333199,33.764726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fellini's Pizza</name>
+      <Point><coordinates>-84.333956,33.765002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Bombay's Underwater Tea Party</name>
+      <Point><coordinates>-84.3335964,33.764724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Corner Pub</name>
+      <Point><coordinates>-84.2858498,33.7731792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mary Mac's Tea Room</name>
+      <Point><coordinates>-84.3800002,33.7728318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>gusto! Ponce</name>
+      <Point><coordinates>-84.3617783,33.7741158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Antico</name>
+      <Point><coordinates>-84.4055889,33.7846513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sublime Doughnuts</name>
+      <Point><coordinates>-84.4049196,33.7818784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cooks &amp; Soldiers</name>
+      <Point><coordinates>-84.4114717,33.7859733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barcelona Wine Bar</name>
+      <Point><coordinates>-84.4113861,33.7845148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Supermercado Chicago</name>
+	<description>Has groceries, but more importantly, cheap and good tacos.</description>
+      <Point><coordinates>-84.2815482,33.8953841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Canteen</name>
+      <Point><coordinates>-84.3892555,33.7770098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Winery</name>
+      <Point><coordinates>-84.3673368,33.7715897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pancake Social</name>
+      <Point><coordinates>-84.3652525,33.7716397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Five Daughters Bakery (Westside Provisions)</name>
+      <Point><coordinates>-84.41216,33.785834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Five Daughters Bakery (Ponce City Market)</name>
+      <Point><coordinates>-84.3656676,33.7716615</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Carribbean_Central_South_American</name>
+  <Placemark>
+	<name>La Pastorcita (Tacos)</name>
+      <Point><coordinates>-84.329254,33.843002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nuevo Laredo Cantina (Chicken Mole Tacos)</name>
+      <Point><coordinates>-84.4367464,33.8094748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rreal Tacos (Mexican)</name>
+      <Point><coordinates>-84.3832099,33.7774916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caribbean Chicken &amp; Fish (Jamaican)</name>
+      <Point><coordinates>-84.2645827,33.7925868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Las Brasas (Peruvian)</name>
+      <Point><coordinates>-84.2952052,33.7782864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Calle Latina (Venezuelan)</name>
+      <Point><coordinates>-84.2951428,33.7749186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Golden Drops Café (Brazilian/Coffee)</name>
+      <Point><coordinates>-84.3107416,33.8062054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Papi's Cuban &amp; Caribbean Grill</name>
+      <Point><coordinates>-84.3803803,33.7727465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Papi's Cuban &amp; Caribbean Grill</name>
+      <Point><coordinates>-84.3268383,33.8010112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kemper's Cafe (Jamaican)</name>
+      <Point><coordinates>-84.4084691,33.7015766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Havana Sandwich Shop</name>
+      <Point><coordinates>-84.340623,33.832856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>bartaco</name>
+      <Point><coordinates>-84.3585815,33.7624992</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>East_Asian_SE_Asian</name>
+  <Placemark>
+	<name>Mamak (Malaysian)</name>
+      <Point><coordinates>-84.2849292,33.8935336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jang Su Jang (Korean)</name>
+      <Point><coordinates>-84.138878,33.95717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chef Liu (Dumplings)</name>
+      <Point><coordinates>-84.2811521,33.8963216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Makan Restaurant &amp; Bar (Malaysian)</name>
+      <Point><coordinates>-84.296824,33.7766527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Mei Zi (Taiwanese) 辣妹子</name>
+      <Point><coordinates>-84.2861663,33.8927541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hajime (Ramen)</name>
+      <Point><coordinates>-84.3497225,33.8191602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quoc Huong Banh Mi Fast Food</name>
+      <Point><coordinates>-84.2853036,33.892682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Little Bangkok (Thai)</name>
+      <Point><coordinates>-84.352299,33.815868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pho Dai Loi 2 (Vietnamese)</name>
+      <Point><coordinates>-84.3050483,33.8652022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Siamese Basil Thai Restaurant</name>
+      <Point><coordinates>-84.2067162,33.8990491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Food Terminal (Malaysian/Cantonese)</name>
+      <Point><coordinates>-84.2877092,33.8874393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yen Jing Chinese Restaurant</name>
+	<description>Recommended: orange chicken.</description>
+      <Point><coordinates>-84.2819146,33.8975792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bonchon Chicken - Fayetteville, GA</name>
+      <Point><coordinates>-84.4395607,33.4798238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iron Age (Korean All-You-Can-Eat)</name>
+      <Point><coordinates>-84.1340289,33.9540495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sokongdong Tofu House (Tofu Soups)</name>
+      <Point><coordinates>-84.2825003,33.8969148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pho 24 (24-Hour Vietnamese)</name>
+      <Point><coordinates>-84.2934256,33.8773762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ming's BBQ (Cantonese BBQ)</name>
+      <Point><coordinates>-84.2859334,33.8927669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saigon Cafe (Vietnamese)</name>
+      <Point><coordinates>-84.305748,33.7913333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mint 2 Thai-Sushi</name>
+      <Point><coordinates>-84.3049631,33.7925418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LanZhou Ramen 兰州拉面</name>
+      <Point><coordinates>-84.2820866,33.8948204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tuk Tuk Thai Food Loft</name>
+      <Point><coordinates>-84.3922896,33.8016144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dish Korean Cuisine</name>
+      <Point><coordinates>-84.2881119,33.8874582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atlanta Chinatown</name>
+      <Point><coordinates>-84.2999855,33.8902752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>K BBQ Taco</name>
+      <Point><coordinates>-84.2963692,33.7759211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lee's Bakery (Vietnamese)</name>
+	<description>Others' people's favs, not my own though. :(</description>
+      <Point><coordinates>-84.3089137,33.8600364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gaja Korean Bar</name>
+      <Point><coordinates>-84.3463225,33.7405527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>We Suki Suki A Global Grub Collective</name>
+      <Point><coordinates>-84.3465662,33.740882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nam Phuong Restaurant (Vietnamese)</name>
+      <Point><coordinates>-84.3079247,33.8612186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Han Il Kwan (Korean)</name>
+      <Point><coordinates>-84.2768163,33.9013686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Snackboxe Bistro (Lao Street Food)</name>
+      <Point><coordinates>-84.2881067,33.9089911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gu’s Kitchen (Sichuan)</name>
+      <Point><coordinates>-84.2880998,33.884676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>D92 Korean BBQ</name>
+      <Point><coordinates>-84.293782,33.7719658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Penang (SE Asian Food)</name>
+      <Point><coordinates>-84.2875607,33.8846739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vietvana Pho Noodle House (Vietnamese)</name>
+      <Point><coordinates>-84.2740865,33.7746524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tasty China</name>
+	<description>Authentic Sichuan (Szechwan) food. Family style, recommend going with parties of six or more.</description>
+      <Point><coordinates>-84.3833273,33.888938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beijing Kabobs</name>
+	<description>Dingy, Beijing-style hole in the wall, complete with gruff Beijing proprietor. Lamb kabobs are the standard, should be paired with light lager (e.g., Tsingtao). </description>
+      <Point><coordinates>-84.2857341,33.8913647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joy Pizza N Joy Chicken (Korean)</name>
+      <Point><coordinates>-84.178718,34.0451711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yifan Catering and Cooking School (Chinese)</name>
+      <Point><coordinates>-84.1788853,34.0452659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Le Mekong Vietnamese Cuisine</name>
+      <Point><coordinates>-84.1790712,34.047257</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Ethiopian_Indian_Middle_Eastern</name>
+  <Placemark>
+	<name>Chai Pani Decatur</name>
+      <Point><coordinates>-84.302717,33.775363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Desta Ethiopian Kitchen</name>
+      <Point><coordinates>-84.3103454,33.8378768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bahel Ethiopian</name>
+      <Point><coordinates>-84.3099271,33.8371674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sufi's Kitchen (Persian)</name>
+	<description>http://www.yelp.com/biz/sufis-atlanta</description>
+      <Point><coordinates>-84.3938208,33.8044316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Madras Mantra (South Indian)</name>
+	<description>http://www.yelp.com/biz/madras-mantra-decatur</description>
+      <Point><coordinates>-84.2713909,33.8103699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Panahar (Bangladeshi)</name>
+      <Point><coordinates>-84.327237,33.842597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yalla (Middle Eastern)</name>
+      <Point><coordinates>-84.3639453,33.7568961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spice To Table (Indian)</name>
+      <Point><coordinates>-84.3659762,33.7568281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Purnima Bangladeshi Cuisine</name>
+      <Point><coordinates>-84.2935922,33.8771049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Halal Guys (Fast-Casual Middle-Eastern)</name>
+      <Point><coordinates>-84.287773,33.885867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Desta Ethiopian Kitchen Emory Point</name>
+      <Point><coordinates>-84.3283693,33.8009517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Madras Chettinaad (Indian Buffet)</name>
+	<description>https://www.yelp.com/biz/madras-chettinaad-alpharetta?osq=madras+chettinad</description>
+      <Point><coordinates>-84.2352989,34.0574031</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Coffee_Tea</name>
+  <Placemark>
+	<name>Octane Coffee Company</name>
+      <Point><coordinates>-84.4103241,33.7794286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Proof Bakeshop</name>
+      <Point><coordinates>-84.3539205,33.756964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ebrik Coffee Room (Downtown ATL)</name>
+	<description>https://www.google.com/search?client=safari&amp;rls=en&amp;q=ebrik+coffee+room+atlanta+ga&amp;ie=UTF-8&amp;oe=UTF-8</description>
+      <Point><coordinates>-84.3886769,33.7540152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chattahoochee Coffee Company</name>
+      <Point><coordinates>-84.4450176,33.896655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Octane Coffee Bar - Grant Park</name>
+      <Point><coordinates>-84.37283,33.7460934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dancing Goats (Decatur)</name>
+      <Point><coordinates>-84.3032641,33.7758813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Java Monkey</name>
+      <Point><coordinates>-84.2946708,33.775182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Amélie's French Bakery</name>
+      <Point><coordinates>-84.4069315,33.7752412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe Jonah</name>
+      <Point><coordinates>-84.3822217,33.8413555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Condesa Coffee</name>
+      <Point><coordinates>-84.371945,33.759773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quickly Bubble Tea 快乐珍珠茶</name>
+      <Point><coordinates>-84.2858003,33.8914414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sweet Hut Bakery Cafe</name>
+      <Point><coordinates>-84.2843624,33.8934407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ebrik Coffee Room</name>
+      <Point><coordinates>-84.2921513,33.7711141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moonbird Coffee</name>
+      <Point><coordinates>-84.3010773,33.8923304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Inman Perk Coffee</name>
+      <Point><coordinates>-84.359158,33.762543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Matcha Cafe Maiko</name>
+      <Point><coordinates>-84.2813498,33.8973773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dancing Goats Coffee Bar</name>
+      <Point><coordinates>-84.3867958,33.7803478</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Breweries_Pubs</name>
+  <Placemark>
+	<name>BlueTarp Brewing Co.</name>
+      <Point><coordinates>-84.283598,33.773999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Three Taverns Craft Brewery</name>
+      <Point><coordinates>-84.2851835,33.7725882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wild Heaven Beer</name>
+      <Point><coordinates>-84.2757169,33.7764709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SweetWater Brewing Company</name>
+      <Point><coordinates>-84.3807352,33.8083449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monday Night Brewing</name>
+      <Point><coordinates>-84.40989,33.794919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Red Brick Brewing Company</name>
+      <Point><coordinates>-84.4346066,33.8184522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hopstix</name>
+      <Point><coordinates>-84.303167,33.890621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Urban Tree Cidery</name>
+      <Point><coordinates>-84.4147967,33.7949046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ormsby’s</name>
+      <Point><coordinates>-84.4120078,33.7858069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Lost Druid Brewery</name>
+      <Point><coordinates>-84.2725887,33.7773476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Poor Hendrix</name>
+      <Point><coordinates>-84.309358,33.7509049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>My Parents' Basement</name>
+      <Point><coordinates>-84.2723603,33.7756673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Diesel Filling Station</name>
+      <Point><coordinates>-84.353082,33.7782746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Orpheus Brewing</name>
+      <Point><coordinates>-84.3686023,33.7936008</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Grocery_Stores</name>
+  <Placemark>
+	<name>Buford Highway Farmers Market</name>
+      <Point><coordinates>-84.2742416,33.9057576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Your DeKalb Farmers Market</name>
+      <Point><coordinates>-84.270025,33.7874167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Super H Mart</name>
+      <Point><coordinates>-84.2881654,33.9077452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Patel Brothers</name>
+      <Point><coordinates>-84.2806729,33.7975517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trader Joe's</name>
+      <Point><coordinates>-84.3675836,33.7794269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Whole Foods Market</name>
+      <Point><coordinates>-84.3813921,33.8408965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trader Joe's</name>
+      <Point><coordinates>-84.3749866,33.8409526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Whole Foods Market</name>
+      <Point><coordinates>-84.3880695,33.7863239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Publix Super Market at The Plaza Midtown</name>
+      <Point><coordinates>-84.3887918,33.7804553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>H Mart Johns Creek</name>
+      <Point><coordinates>-84.178218,34.044917</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Desserts</name>
+  <Placemark>
+	<name>Roll It Up Ice Cream Atlanta</name>
+      <Point><coordinates>-84.2847346,33.8929088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Butter &amp; Cream</name>
+      <Point><coordinates>-84.2950474,33.7750999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jeni's Splendid Ice Creams</name>
+      <Point><coordinates>-84.2962752,33.7744732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Café Intermezzo - Midtown</name>
+      <Point><coordinates>-84.3836401,33.7832396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alon's Bakery &amp; Market</name>
+      <Point><coordinates>-84.352866,33.7925868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 Fahrenheit Ice Cream</name>
+      <Point><coordinates>-84.2858305,33.8914986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ICENY Ice Cream</name>
+      <Point><coordinates>-84.283386,33.893614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mozart Bakery</name>
+      <Point><coordinates>-84.2809261,33.8967883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paris Baguette</name>
+      <Point><coordinates>-84.282829,33.896213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frosty Caboose</name>
+      <Point><coordinates>-84.2997851,33.8932154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morelli’s Gourmet Ice Cream</name>
+      <Point><coordinates>-84.3496246,33.7339513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>King of Pops Worldwide HQ</name>
+      <Point><coordinates>-84.3693772,33.7522866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chapman Drug Company-Pharmacy</name>
+      <Point><coordinates>-84.4091208,33.6592003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ali's Cookies - Emory</name>
+      <Point><coordinates>-84.3266024,33.7878583</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Trivia_Nights_ONLY</name>
+  <Placemark>
+	<name>The Imperial</name>
+      <Point><coordinates>-84.3063928,33.7660904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joe's On Juniper</name>
+      <Point><coordinates>-84.382084,33.7832317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cypress Street Pint &amp; Plate</name>
+      <Point><coordinates>-84.3861202,33.7773102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rí Rá Irish Pub</name>
+      <Point><coordinates>-84.384209,33.784193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Albert</name>
+      <Point><coordinates>-84.3575206,33.761941</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

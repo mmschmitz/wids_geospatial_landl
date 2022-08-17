@@ -1,0 +1,253 @@
+{
+ "currentVersion": 10.71,
+ "id": 1,
+ "name": "MARTA Lines",
+ "type": "Feature Layer",
+ "description": "",
+ "geometryType": "esriGeometryPolyline",
+ "sourceSpatialReference": {
+  "wkid": 102667,
+  "latestWkid": 2240
+ },
+ "copyrightText": "",
+ "parentLayer": null,
+ "subLayers": [],
+ "minScale": 0,
+ "maxScale": 0,
+ "drawingInfo": {
+  "renderer": {
+   "type": "uniqueValue",
+   "field1": "route_short_name",
+   "field2": null,
+   "field3": null,
+   "defaultSymbol": null,
+   "defaultLabel": null,
+   "uniqueValueInfos": [
+    {
+     "symbol": {
+      "type": "esriSLS",
+      "style": "esriSLSSolid",
+      "color": [
+       0,
+       92,
+       230,
+       255
+      ],
+      "width": 2
+     },
+     "value": "BLUE",
+     "label": "BLUE",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSLS",
+      "style": "esriSLSSolid",
+      "color": [
+       217,
+       186,
+       59,
+       255
+      ],
+      "width": 2
+     },
+     "value": "GOLD",
+     "label": "GOLD",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSLS",
+      "style": "esriSLSSolid",
+      "color": [
+       76,
+       230,
+       0,
+       255
+      ],
+      "width": 2
+     },
+     "value": "GREEN",
+     "label": "GREEN",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSLS",
+      "style": "esriSLSSolid",
+      "color": [
+       230,
+       0,
+       0,
+       255
+      ],
+      "width": 2
+     },
+     "value": "RED",
+     "label": "RED",
+     "description": ""
+    }
+   ],
+   "fieldDelimiter": ","
+  },
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "defaultVisibility": false,
+ "extent": {
+  "xmin": 2204377.499961078,
+  "ymin": 1323896.7137272358,
+  "xmax": 2278096.8111835793,
+  "ymax": 1435488.2457930744,
+  "spatialReference": {
+   "wkid": 102667,
+   "latestWkid": 2240
+  }
+ },
+ "hasAttachments": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "displayField": "route_short_name",
+ "typeIdField": null,
+ "subtypeFieldName": null,
+ "subtypeField": null,
+ "defaultSubtypeCode": null,
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null
+  },
+  {
+   "name": "Shape",
+   "type": "esriFieldTypeGeometry",
+   "alias": "Shape",
+   "domain": null
+  },
+  {
+   "name": "Shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "Shape_Length",
+   "domain": null
+  },
+  {
+   "name": "shape_id",
+   "type": "esriFieldTypeString",
+   "alias": "shape_id",
+   "length": 500,
+   "domain": null
+  },
+  {
+   "name": "route_id",
+   "type": "esriFieldTypeString",
+   "alias": "route_id",
+   "length": 500,
+   "domain": null
+  },
+  {
+   "name": "route_short_name",
+   "type": "esriFieldTypeString",
+   "alias": "route_short_name",
+   "length": 500,
+   "domain": null
+  },
+  {
+   "name": "route_long_name",
+   "type": "esriFieldTypeString",
+   "alias": "route_long_name",
+   "length": 500,
+   "domain": null
+  },
+  {
+   "name": "route_desc",
+   "type": "esriFieldTypeString",
+   "alias": "route_desc",
+   "length": 500,
+   "domain": null
+  },
+  {
+   "name": "route_type",
+   "type": "esriFieldTypeString",
+   "alias": "route_type",
+   "length": 500,
+   "domain": null
+  },
+  {
+   "name": "route_url",
+   "type": "esriFieldTypeString",
+   "alias": "route_url",
+   "length": 500,
+   "domain": null
+  },
+  {
+   "name": "route_color",
+   "type": "esriFieldTypeString",
+   "alias": "route_color",
+   "length": 500,
+   "domain": null
+  },
+  {
+   "name": "route_text_color",
+   "type": "esriFieldTypeString",
+   "alias": "route_text_color",
+   "length": 500,
+   "domain": null
+  },
+  {
+   "name": "route_type_text",
+   "type": "esriFieldTypeString",
+   "alias": "route_type_text",
+   "length": 500,
+   "domain": null
+  }
+ ],
+ "geometryField": {
+  "name": "Shape",
+  "type": "esriFieldTypeGeometry",
+  "alias": "Shape"
+ },
+ "indexes": [
+  {
+   "name": "FDO_OBJECTID",
+   "fields": "OBJECTID",
+   "isAscending": true,
+   "isUnique": true,
+   "description": ""
+  },
+  {
+   "name": "FDO_Shape",
+   "fields": "Shape",
+   "isAscending": true,
+   "isUnique": false,
+   "description": ""
+  }
+ ],
+ "subtypes": [],
+ "relationships": [],
+ "canModifyLayer": true,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query,Data",
+ "maxRecordCount": 1000,
+ "supportsStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportedQueryFormats": "JSON, geoJSON",
+ "isDataVersioned": false,
+ "ownershipBasedAccessControlForFeatures": {"allowOthersToQuery": true},
+ "useStandardizedQueries": true,
+ "advancedQueryCapabilities": {
+  "useStandardizedQueries": true,
+  "supportsStatistics": true,
+  "supportsHavingClause": true,
+  "supportsCountDistinct": true,
+  "supportsOrderBy": true,
+  "supportsDistinct": true,
+  "supportsPagination": true,
+  "supportsTrueCurve": true,
+  "supportsReturningQueryExtent": true,
+  "supportsQueryWithDistance": true,
+  "supportsSqlExpression": true
+ },
+ "supportsDatumTransformation": true,
+ "supportsCoordinatesQuantization": true
+}
